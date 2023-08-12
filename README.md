@@ -33,3 +33,17 @@ You need to do according to the steps in the help menu
 usage: wordattack.py [-h] -u USERNAME -p URL -w FILE
 wordattack.py: error: the following arguments are required: -u/--username, -p/--url, -w/--file
 ```
+
+2. Run the script as mentioned in the Usage section.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or want to improve the script, feel free to create a pull request.
+
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE) License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Created by [Agenthackers](https://github.com/chfncghn)
