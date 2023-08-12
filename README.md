@@ -1,6 +1,6 @@
 # WordPress Brute-Force Tool
 
-![GitHub](https://img.shields.io/github/license/YourUsername/YourRepositoryName)
+![GitHub](https://github.com/chfncghn/Wordpress-bruteforcer/blob/main/LICENSE)
 
 A simple Python script for educational purposes to demonstrate a WordPress login brute-force tool using threading.
 
